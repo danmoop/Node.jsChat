@@ -1,2 +1,2 @@
 # Npm install is required
-![alt tag](chat.jpg)
+![alt tag](http://i.imgur.com/9oGfxrR.jpg)
